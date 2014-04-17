@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
+title: Überblick
+tagline: 
+tags: 
 modified: 9-9-2013
 comments: true
 image:
@@ -12,19 +12,45 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
 
-## Minimal Mistakes is all about:
+## Motivation
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+Kommunikation und Interaktion sind ein grundlegender Bestandteil unseres täglichen Lebens. In den letzten Jahrzehnten ermöglichte die rasante Entwicklung der Elektronik und Informationstechnologie den Einzug vieler neuer Kommunikationsmedien auf breiter Ebene, welche unser Leben und unsere Gesellschaft signifikant verändert hat.mehr...
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+## Themenschwerpunkte
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+- Taktile Interaktion – Latenzanforderungen des Menschen
+- Anwendungsfelder
+- Sicherheit, Zuverlässigkeit und Verfügbarkeit
+- Gesellschaftliches Umfeld und rechtliche Rahmenbedingungen
 
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+Die wissenschaftlichen und wirtschaftlichen Potentiale, die in Deutschland vorhanden sind, gilt es zu bündeln und zu entfalten, um die Zukunft des mobilen Internet in Richtung eines „echtzeitfähigen Steuernetzwerks“ federführend mitzugestalten.
+
+Das Symposium bietet Experten aus Wissenschaft, Politik und Industrie ein Forum, über Herausforderungen und Grenzen, zukünftige Anwendungen und Dienste sowie externe Rahmenbedingungen zu diskutieren, um daraus Handlungsempfehlungen für das TAKTILE INTERNET abzuleiten.
+
+## Programmbeirat
+
+Prof. Dr.-Ing. Holger Boche, TU München  
+Prof. Dr.-Ing. Gerhard Fettweis, TU Dresden  
+Steffen Watzek, TU Dresden  
+Prof. Dr.-Ing. Thomas Wiegand, Fraunhofer HHI und TU Berlin  
+Dr. Erich Zielinski, Alcatel-Lucent Stiftung  
+
+
+## Forschungsfelder für das Taktile Internet  
+
+- Kognitive Wahrnehmung von Interaktionsprozessen  
+- Systemkonzept für drahtgebundene und drahtlose latenzminimale Kommunikationssysteme  
+- Latenzminimale Übertragungstechnik (Modulation, Kodierung, Rahmenstruktur, Paketgrößen)  
+- Diversitätskonzepte bzgl. Frequenz, Raum/ Ort, Infrastruktur, Kanalkodierung  
+- Einsatzmöglichkeiten von Peer-to-Peer- und Device-to-Device-Kommunikation  
+- Latenzminimale Protokolle und Betriebssysteme  
+- Systementwurf für taktile Kommunikationssysteme mit eingebetteter Ende-zu-Ende-Sicherheit  
+- Hardware-spezifische Authentifizierung  
+- Konzepte für funktionale Systemsicherheit (Ausfall- und Betriebssicherheit)  
+- Verteilte Regelungssysteme mit verlustbehafteter Kommunikation  
+- Latenzminimale Kompression von Quellsignalen (z.B. Sensordaten, Position, Audio, Bilder, Video)  
+- Handover-Mechanismen und Interoperabilität  
+- Latenzminimale Mustererkennung und Segmentierung  
+- Anbindung an Datenzentren (Cloud)  
+
