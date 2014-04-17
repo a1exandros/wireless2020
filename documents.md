@@ -8,8 +8,8 @@ modified: 9-9-2013
 comments: true
 image:
   feature: texture-feature-02.jpg
-  credit:  Toshiyuki IMAI
-  creditlink: https://flic.kr/p/fqfoQz
+  credit:  Ben Mortimer
+  creditlink: https://flic.kr/p/bpNTLp
 ---
 
 ## Alle Foliensätze (ZIP-Datei):
