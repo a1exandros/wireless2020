@@ -37,8 +37,8 @@ bing_verify:
 links:
   - title: Überblick
     url: /about/
-  - title: Posts
-    url: /posts/
+  - title: Dokumente
+    url: /documents/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
