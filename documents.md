@@ -12,16 +12,11 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-
-
-
-## Folien der Veranstaltung
-
-### Alle Foliensätze (ZIP-Datei):
+## Alle Foliensätze (ZIP-Datei):
 
 [Wireless2020-DasTaktileInternet]({{ site.url }}/download/Wireless2020-DasTaktileInternet.zip)
 
-### Einzelne Foliensätze:
+## Einzelne Foliensätze:
 
 - [11_Gerhard_Fettweis_TU_Dresden]({{ site.url }}/download/11_Gerhard_Fettweis_TU_Dresden.pdf)  
 - [12_Walter_Haeffner_Vodafone]({{ site.url }}/download/12_Walter_Haeffner_Vodafone.pdf)    
