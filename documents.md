@@ -12,6 +12,11 @@ image:
   creditlink: https://flic.kr/p/bpNTLp
 ---
 
+## Faltblatt des Symposiums:
+
+[Faltblatt]({{ site.url }}/download/Faltblatt_Wireless2020.pdf)
+
+
 ## Alle Foliensätze (ZIP-Datei):
 
 [Wireless2020-DasTaktileInternet]({{ site.url }}/download/Wireless2020-DasTaktileInternet.zip)
