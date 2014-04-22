@@ -8,6 +8,4 @@ image:
   creditlink: https://flic.kr/p/bpNTLp
 ---
 
-<figure>
-	<a href="{{ site.url }}/images/logos.png"><img src="{{ site.url }}/images/logos.png"></a>
-</figure>
+Herzlich Willkommen auf der Webseite zum Symposium "Das Taktile Internet".
